@@ -1,6 +1,6 @@
 # HSRW GoKart Ultrasonic Sensor Library
 
-This library provides a simple interface for reading the distence with help of ultraasonic sensors connected to an Arduino board.
+This library provides software for reading distance measurements from an ultrasonic sensor and sending the data via BusCAN to MicroAutoBox 2
 
 ### Class Members
 - `TrigPin`: An integer representing the Arduino pin connected to the trigger pin of the ultrasonic sensor.
